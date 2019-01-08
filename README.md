@@ -84,5 +84,5 @@ Twitter: @mitsumotocs
 
 ## 打ち合わせ？用Discord
 
-よかったら覗いてみてください…
+よかったら覗いてみてください…  
 https://discord.gg/89wDTtK
