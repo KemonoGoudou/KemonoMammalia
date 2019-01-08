@@ -81,3 +81,8 @@ R18かどうかは明確な基準がなく、発行者の判断に委ねられ�
 主催・みつもとまで  
 Twitter: @mitsumotocs  
 メール: mitsumotocs@gmail.com
+
+## 打ち合わせ？用Discord
+
+よかったら覗いてみてください…
+https://discord.gg/89wDTtK
